@@ -1,0 +1,15 @@
+[Desktop Entry]
+# https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html#recognized-keys
+Version=1.5
+Name=QSynthesis
+GenericName=Vocal Synthesis Software
+GenericName[zh_CN]=人声合成软件
+#GenericName[zh_TW]=人声合成软件
+Comment=A Cross-Platform Vocal Synthesis Qt GUI Frontend
+Comment[zh_CN]=跨平台的人声合成 Qt 图形软件前端
+Type=Application
+Categories=Audio;AudioVideo;AudioVideoEditing;Midi;Qt
+Keywords=audio;editing;vocal;qsynth;ust;utau;UTAU
+Terminal=false
+Exec=qsynthesis %F
+Icon=qsynthesis
